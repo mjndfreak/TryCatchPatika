@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/bin/Debug/net8.0/TryCatchPatika
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/bin/Debug/net8.0/TryCatchPatika.deps.json
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/bin/Debug/net8.0/TryCatchPatika.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/bin/Debug/net8.0/TryCatchPatika.dll
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/bin/Debug/net8.0/TryCatchPatika.pdb
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.dll
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/refint/TryCatchPatika.dll
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.pdb
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/TryCatchPatika.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/TryCatchPatika/TryCatchPatika/obj/Debug/net8.0/ref/TryCatchPatika.dll
